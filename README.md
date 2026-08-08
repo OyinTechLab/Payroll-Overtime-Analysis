@@ -113,7 +113,6 @@ The dashboard went through several real rounds of correction before reaching its
 |---|---|---|
 | **Total Payroll** | Sum of all pay (regular + overtime) for the month | The baseline cost figure everything else is measured against |
 | **Total Overtime Cost** | Sum of overtime bonus pay only | Isolates the cost specifically attributable to overtime |
-| **OT % of Payroll** | Overtime cost as a share of total payroll | Turns a raw currency figure into a comparable, benchmarkable rate |
 | **Headcount** | Distinct count of employees | Context for whether cost changes are about pay rates or staffing levels |
 | **OT Dependency Ratio** | Overtime bonus as a % of an employee's regular pay | Identifies who is financially reliant on overtime, not just who logs the most hours |
 
