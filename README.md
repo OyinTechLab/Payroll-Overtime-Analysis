@@ -183,11 +183,12 @@ The report is built as a single, story-driven page, structured to be read top to
 ```
 ├── README.md
 ├── data/
-│   └── Employee_Payroll_PowerBI.xlsx     (cleaned, tidy dataset)
+│   ├── Employee Payroll.xlsx              (cleaned, tidy dataset)
+│   └── Employee Payroll-Raw Data.xlsx     (original raw export, for comparison)
 ├── report/
-│   └── Employee_Payroll_Report.pbix      (Power BI report file)
-├── screenshots/
-│   └── (dashboard images)
-└── docs/
-    └── Employee_Payroll_Case_Study.docx  (this write-up as a standalone document)
+│   └── Employee Payroll Data.pbix         (Power BI report file)
+├── docs/
+│   └── Employee_Payroll_Case_Study.docx   (this write-up as a standalone document)
+├── dashboard-overview.png                 (full dashboard screenshot)
+└── Overtime-Dependency-Chart.png          (key chart close-up)
 ```
