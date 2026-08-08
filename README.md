@@ -18,11 +18,11 @@ This document walks through the full process — the raw data as received, every
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](screenshot/dashboard-overview.png)
 
 *Overtime Dependency by Employee — showing the wage-to-reliance pattern:*
 
-![Overtime Dependency Chart](Overtime-Dependency-Chart.png)
+![Overtime Dependency Chart](screenshot/Overtime-Dependency-Chart.png)
 
 ---
 
