@@ -16,6 +16,14 @@ This project starts with a single, unprocessed month of employee payroll data an
 
 This document walks through the full process — the raw data as received, every cleaning decision made in Excel, the modeling and analysis done in Power BI, and the recommendations that came out the other end.
 
+## Dashboard Preview
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+*Overtime Dependency by Employee — showing the wage-to-reliance pattern:*
+
+![Overtime Dependency Chart](screenshots/overtime-dependency-chart.png)
+
 ---
 
 ## 2. About the Dataset
